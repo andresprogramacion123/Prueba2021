@@ -7,3 +7,5 @@ Realizamos un cambio que se va subir con git push
 Realizamos un cambio en README.md en la rama_local
 
 Ahora realizamos un cambio en la rama_local que esta en el remoto 
+
+Realizamos cambios pero en la rama main.
